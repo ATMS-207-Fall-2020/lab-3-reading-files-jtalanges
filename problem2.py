@@ -1,7 +1,3 @@
 ### PROBLEM 2
-
-def main():
-    print("hello world!")
-
-if __name__ == "__main__":
-    main()
+filename= 'Aug2020_Champaign_Temperature_Dewpoint.csv'
+wxdata= {'Date':[]'Time':[]'Temp (F)':[]'Dewpt (F)':[]}
